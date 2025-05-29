@@ -1,6 +1,6 @@
 @::fh36d7f-random
 
-@set masver="| Hybrid Systems"
+@set masver=- Hybrid Systems
 
 @setlocal DisableDelayedExpansion
 
